@@ -1,7 +1,7 @@
 # LLM Project
 
 ## Project Task
-Topic classification of forum-style posts into 20 distinct categories using classical ML (TF-IDF + Logistic Regression) and Transformer-based models (DistilBERT). This is a multi-class text classification task.
+Topic classification of forum-style posts into 20 distinct categories using classical ML (TF-IDF + Logistic Regression) and Transformer-based models (DistilBERT).
 
 ## Dataset
 - **Name:** 20 Newsgroups
@@ -13,7 +13,7 @@ Topic classification of forum-style posts into 20 distinct categories using clas
 - **Selected Model:** `distilbert-base-uncased`
 - **Why:** 
   - Lightweight yet effective for text classification
-  - Pre-trained on large corpus
+  - Pre-trained on a large corpus
   - Compatible with Hugging Face `Trainer` API
   - Faster to fine-tune than full BERT
 
