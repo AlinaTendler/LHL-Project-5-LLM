@@ -1,0 +1,17 @@
+{"time":"2025-06-01T16:27:03.851491-07:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/snoopy/LHL-Project-5-LLM/wandb/run-20250601_162703-r3buk1f8/logs/debug-core.log"}
+{"time":"2025-06-01T16:27:03.866564-07:00","level":"ERROR","msg":"monitor: failed to initialize GPU asset: monitor: could not start GPU binary: fork/exec /usr/local/Caskroom/miniforge/base/envs/base_env/lib/python3.8/site-packages/wandb/bin/gpu_stats: bad CPU type in executable"}
+{"time":"2025-06-01T16:27:04.113936-07:00","level":"INFO","msg":"created new stream","id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:04.113995-07:00","level":"INFO","msg":"stream: started","id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:04.11407-07:00","level":"INFO","msg":"handler: started","stream_id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:04.114087-07:00","level":"INFO","msg":"sender: started","stream_id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:04.114069-07:00","level":"INFO","msg":"writer: Do: started","stream_id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:04.321386-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-01T16:27:04.923741-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-01T16:27:04.923794-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-01T16:27:05.644543-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-01T16:27:05.879005-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-06-01T16:27:05.888143-07:00","level":"INFO","msg":"stream: closing","id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:05.888176-07:00","level":"INFO","msg":"handler: closed","stream_id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:05.888196-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:05.888206-07:00","level":"INFO","msg":"sender: closed","stream_id":"r3buk1f8"}
+{"time":"2025-06-01T16:27:05.888323-07:00","level":"INFO","msg":"stream: closed","id":"r3buk1f8"}
