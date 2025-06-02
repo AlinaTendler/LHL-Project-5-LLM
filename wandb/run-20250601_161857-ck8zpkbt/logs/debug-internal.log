@@ -1,0 +1,9 @@
+{"time":"2025-06-01T16:18:57.886263-07:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/snoopy/LHL-Project-5-LLM/wandb/run-20250601_161857-ck8zpkbt/logs/debug-core.log"}
+{"time":"2025-06-01T16:18:57.89995-07:00","level":"ERROR","msg":"monitor: failed to initialize GPU asset: monitor: could not start GPU binary: fork/exec /usr/local/Caskroom/miniforge/base/envs/base_env/lib/python3.8/site-packages/wandb/bin/gpu_stats: bad CPU type in executable"}
+{"time":"2025-06-01T16:18:58.13589-07:00","level":"INFO","msg":"created new stream","id":"ck8zpkbt"}
+{"time":"2025-06-01T16:18:58.135988-07:00","level":"INFO","msg":"stream: started","id":"ck8zpkbt"}
+{"time":"2025-06-01T16:18:58.13602-07:00","level":"INFO","msg":"writer: Do: started","stream_id":"ck8zpkbt"}
+{"time":"2025-06-01T16:18:58.136079-07:00","level":"INFO","msg":"handler: started","stream_id":"ck8zpkbt"}
+{"time":"2025-06-01T16:18:58.136179-07:00","level":"INFO","msg":"sender: started","stream_id":"ck8zpkbt"}
+{"time":"2025-06-01T16:18:58.230367-07:00","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-06-01T16:18:58.230489-07:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 403: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"permission denied\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}]}"}
